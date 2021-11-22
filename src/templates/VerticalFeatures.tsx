@@ -4,41 +4,27 @@ import { Section } from '../layout/Section';
 const VerticalFeatures = () => (
   <Section
     title="Services"
-    description="At Ultimate Fitness, we provide various services..."
+    description="At Sparsh Cleaning Solutions, we provide various services..."
   >
     <VerticalFeatureRow
-      title="Workout"
-      description="Integer auctor est nec semper hendrerit. Etiam sollicitudin enim in urna commodo, in dapibus velit elementum. Ut congue nisl sapien, vel ultricies nulla tincidunt vitae. Maecenas non ligula quis massa consequat commodo eleifend ut velit."
-      image="Workout.png"
-      imageAlt="Workout"
+      title="Home Cleaning"
+      description="Best Housekeeping & Deep Cleaning Services In Pune and Pimpri Chinchwad. Call Now. Provides Various kinds of House Cleaning Services in Pimpri-Chinchwad, FLat, Bunglow, House Etc. Competitive Pricing. On-time completion. Professional Cleaners."
+      image="home.png"
+      imageAlt="Home Cleaning"
     />
     <VerticalFeatureRow
-      title="Cardio"
-      description="Integer auctor est nec semper hendrerit. Etiam sollicitudin enim in urna commodo, in dapibus velit elementum. Ut congue nisl sapien, vel ultricies nulla tincidunt vitae. Maecenas non ligula quis massa consequat commodo eleifend ut velit."
-      image="cardio.png"
-      imageAlt="Cardio"
+      title="Office Cleaning"
+      description="On-demand End-to-End Quality Professional Office Cleaning, Cabin Sanitization and Deep Cleaning Services for Office and Commercial Spaces at Affordable Prices"
+      image="office.png"
+      imageAlt="Office Cleaning"
       reverse
     />
     <VerticalFeatureRow
-      title="Personal Trainer"
-      description="Integer auctor est nec semper hendrerit. Etiam sollicitudin enim in urna commodo, in dapibus velit elementum. Ut congue nisl sapien, vel ultricies nulla tincidunt vitae. Maecenas non ligula quis massa consequat commodo eleifend ut velit."
-      image="Personal.png"
-      imageAlt="Personal Trainer"      
-    />
-    <VerticalFeatureRow
-      title="Unisex"
-      description="Integer auctor est nec semper hendrerit. Etiam sollicitudin enim in urna commodo, in dapibus velit elementum. Ut congue nisl sapien, vel ultricies nulla tincidunt vitae. Maecenas non ligula quis massa consequat commodo eleifend ut velit."
-      image="unisex.png"
-      imageAlt="Unisex"
-      reverse
-    />
-     <VerticalFeatureRow
-      title="Weight Training"
-      description="We have Professionally Certified and Qualified Personal Trainers who can pay Special Attention to an individuals’ need and expectation"
-      image="weight.png"
-      imageAlt="Weight Training"
-      
-    />     
+      title="Hotel Cleaning"
+      description="Hotel Cleaning Services will be provided with skilled hospitality staffing, exceptional services, and specialty cleaning."
+      image="hotel.png"
+      imageAlt="Hotel Cleaning"      
+    />  
   </Section>
 );
 

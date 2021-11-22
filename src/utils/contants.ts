@@ -1,4 +1,4 @@
-export const PHONE_NO: string = "9271445608";
-export const EMAIL_ID: string = "kishorshivsharan8796@gmail.com";
-export const INSTAGRAM_HANDLE: string = "https://www.instagram.com/ultimate_hardcore_fitness/";
-export const SHOP_LOCATON: string = "https://www.google.com/maps/place/Ultimate+Hard+core+Fitness+Unisex+Gym/@18.6632509,73.734012,17z/data=!4m12!1m6!3m5!1s0x3bc2b0a8ae9cb7b5:0x93bb885a2f55e603!2sUltimate+Hard+core+Fitness+Unisex+Gym!8m2!3d18.6632458!4d73.7362007!3m4!1s0x3bc2b0a8ae9cb7b5:0x93bb885a2f55e603!8m2!3d18.6632458!4d73.7362007";
+export const PHONE_NO: string = "8600352592";
+export const EMAIL_ID: string = "sparshcleaningsolutions2592@gmail.com";
+export const INSTAGRAM_HANDLE: string = "https://www.instagram.com/sparsh_cleaning/";
+export const SHOP_LOCATON: string = "https://www.google.com/search?q=sparsh%20cleaning&sxsrf=AOaemvK-P9toyBGRfU61dmv-p7hPDsksfQ:1637506555835&ei=912aYcTqAf6f4-EPl96k6AM&ved=2ahUKEwjzl8-k26n0AhUmzjgGHQ8bBecQvS56BAgKEDw&uact=5&oq=sparsh+cleaning&gs_lcp=Cgdnd3Mtd2l6EAMyBggAEBYQHjICCCYyAggmOgcIABBHELADOgQIABBDOggIABCABBDJAzoFCAAQkgM6BQgAEJECOgsILhCABBDHARCvAToFCAAQgAQ6BwgAEMkDEA06CgguEMcBEK8BEA06BAgAEA1KBAhBGABQkgRYiRVg6RZoBHACeAGAAYoCiAGZEZIBBTAuNC42mAEAoAEByAEIwAEB&sclient=gws-wiz&tbs=lf:1,lf_ui:2&tbm=lcl&rflfq=1&num=10&rldimm=7642113489890457595&lqi=Cg9zcGFyc2ggY2xlYW5pbmdI98Wqorq2gIAIWhkQABABGAAYASIPc3BhcnNoIGNsZWFuaW5nkgEIY2xlYW5lcnOqARcQASoTIg9zcGFyc2ggY2xlYW5pbmcoAA&rlst=f#rlfi=hd:;si:7642113489890457595,l,Cg9zcGFyc2ggY2xlYW5pbmdI98Wqorq2gIAIWhkQABABGAAYASIPc3BhcnNoIGNsZWFuaW5nkgEIY2xlYW5lcnOqARcQASoTIg9zcGFyc2ggY2xlYW5pbmcoAA;mv:[[18.667501862733307,73.74100176861309],[18.656828893098076,73.71911494305157],null,[18.662165461851547,73.73005835583233],16]";

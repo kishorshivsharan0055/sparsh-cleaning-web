@@ -1,6 +1,6 @@
 export const AppConfig = {
-  site_name: 'Ultimate Fitness',
-  title: 'Ultimate Fitness',
-  description: 'Landing Page for Ultimate Fitness',
+  site_name: 'Sparsh Cleaning Solutions',
+  title: 'Sparsh Cleaning Solutions',
+  description: 'Landing Page for Sparsh Cleaning Solutions',
   locale: 'en',
 };

@@ -6,6 +6,7 @@ import { Hero } from './Hero';
 import { VerticalFeatures } from './VerticalFeatures';
 import ReactWhatsapp from "react-whatsapp";
 import { PHONE_NO } from '../utils/contants';
+import GridServices from '../GridServices/GridServices';
 
 
 const Base = () => (
@@ -13,6 +14,7 @@ const Base = () => (
     <Meta title={AppConfig.title} description={AppConfig.description} />
     <Hero />
     <VerticalFeatures />
+    <GridServices />
     <Banner />
     <Footer />
 
@@ -33,13 +35,13 @@ const Base = () => (
       >
         <ReactWhatsapp
           number={`+91${PHONE_NO}`}
-          children={
+          >
             <div className="flex p-2">
               <img src="whatsapp.png" className="h-6 w-6 mr-2" alt="" />
               <div className="text-gray-900 font-semibold">Chat with Us</div>
             </div>
-          }
-        />
+          
+        </ReactWhatsapp>
       </div>
   </div>
 );

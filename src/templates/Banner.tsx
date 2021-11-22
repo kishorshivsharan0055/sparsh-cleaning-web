@@ -5,8 +5,8 @@ import { Section } from '../layout/Section';
 const Banner = () => (
   <Section>
     <CTABanner
-      title="Let Us Find The Perfect Workout For You!"
-      subtitle="Transform Your Body"
+      title="Let Us Find You The Perfect Cleaning Service"
+      subtitle="We are here for you"
       button={
         <Button>Get In Touch</Button>             
       }

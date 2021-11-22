@@ -6,7 +6,7 @@ import { NavbarTwoColumns } from '../navigation/NavbarTwoColumns';
 import { Logo } from './Logo';
 
 
-const title = "Perfect Workout Coach for Body Shape";
+const title = "Best House-Keeping & Cleaning Services";
 
 const Hero = () => (
   <Background color="bg-gray-100">
@@ -16,12 +16,12 @@ const Hero = () => (
       </NavbarTwoColumns>
     </Section>
 
-    <Section>
+    <Section data-aos="fade-up">
       <HeroOneButton
         title={
           <>
             {`${title} \n`}
-            <span className="text-primary-500">Ultimate Fitness</span>
+            <span className="text-primary-500">Sparsh Cleaning Solutions</span>
           </>
         }
         description=""
