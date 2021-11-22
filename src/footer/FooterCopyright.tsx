@@ -1,3 +1,5 @@
+import Link from 'next/link'
+
 const FooterCopyright = () => (
   <div className="footer-copyright">    
     <div>
@@ -5,7 +7,9 @@ const FooterCopyright = () => (
     <span role="img" aria-label="Love">
       ♥
     </span>{' '} */}
+    <Link href="https://www.linkedin.com/in/kishor-shivsharan-40781b179/">
     Developed by Kishor Shivsharan
+    </Link>
     </div>
     <style jsx>
       {`
